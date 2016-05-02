@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catullus02catugoog_0006.png"; bbox 0 0 2830 4320; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 1311 1173 1419">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 1311 1173 1419">
+     <span class='ocr_line' id='line_1_1' title="bbox 122 1311 1173 1419; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 122 1312 363 1416; x_wconf 84' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 393 1311 578 1414; x_wconf 86' lang='lat' dir='ltr'>SERIES</span> <span class='ocrx_word' id='word_1_3' title='bbox 607 1312 678 1414; x_wconf 92' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 714 1313 880 1416; x_wconf 80' lang='lat' dir='ltr'><strong>LATIN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 911 1311 1173 1419; x_wconf 82' lang='lat' dir='ltr'>AUTHORS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 235 1637 1059 1690">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 235 1637 1059 1690">
+     <span class='ocr_line' id='line_1_2' title="bbox 235 1637 1059 1690; baseline 0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 235 1637 401 1686; x_wconf 82' lang='lat' dir='ltr'><strong>CLEMENT</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 420 1637 613 1686; x_wconf 81' lang='lat' dir='ltr'>LAWRENCE</span> <span class='ocrx_word' id='word_1_8' title='bbox 632 1639 743 1687; x_wconf 87' lang='lat' dir='ltr'>SMlTH</span> <span class='ocrx_word' id='word_1_9' title='bbox 760 1647 820 1686; x_wconf 74' lang='grc' dir='ltr'><strong>ΛΝΒ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 836 1639 949 1688; x_wconf 82' lang='lat' dir='ltr'><strong>TRACY</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 968 1639 1059 1690; x_wconf 65' lang='lat' dir='ltr'><strong>Pfficx</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 1995 866 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 1995 866 2110">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 1995 866 2110; baseline 0.011 -19"><span class='ocrx_word' id='word_1_12' title='bbox 253 2105 255 2110; x_wconf 44' lang='grc'>,</span> <span class='ocrx_word' id='word_1_13' title='bbox 433 1995 866 2098; x_wconf 85' lang='lat' dir='ltr'>CATULLUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 552 2230 746 2295">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 552 2230 746 2295">
+     <span class='ocr_line' id='line_1_4' title="bbox 552 2230 746 2295; baseline 0.01 -2"><span class='ocrx_word' id='word_1_14' title='bbox 552 2230 746 2295; x_wconf 86' lang='lat' dir='ltr'>MERRILL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1420 4320">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1420 4320">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1420 4320; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1420 4320; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
